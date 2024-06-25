@@ -29,3 +29,11 @@ The NOAA Sea Level Calculator is currently in development, targeting a Fall 2024
 - [Application](https://coast.noaa.gov/sealevelcalculator/)
 - [Digital Coast Tool Page](https://coast.noaa.gov/digitalcoast/tools/slc.html)
 - [Code Repository](https://github.com/ocm-inundation/sealevelcalculator_frontend)
+
+### [Sea Level Rise Viewer](https://github.com/ocm-inundation/slr)
+
+The NOAA Sea Level Rise Viewer visualizes community impacts from coastal flooding or sea level rise (up to 10 feet). It offers photo simulations of future flooding on landmarks and data on water depth, connectivity, flood frequency, socio-economic vulnerability, wetland loss, and mapping confidence.
+
+- [Application](https://coast.noaa.gov/slr/)
+- [Digital Coast Tool Page](https://coast.noaa.gov/digitalcoast/tools/slr.html)
+- [Code Repository](https://github.com/ocm-inundation/slr)
