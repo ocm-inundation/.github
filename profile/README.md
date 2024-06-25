@@ -21,3 +21,11 @@ The NOAA Lake Level Viewer is a web application for visualizing potential lake l
 - [Application](https://coast.noaa.gov/llv/)
 - [Digital Coast Tool Page](https://coast.noaa.gov/digitalcoast/tools/llv.html)
 - [Code Repository](https://github.com/ocm-inundation/llv_v3)
+
+### [Sea Level Calculator](https://github.com/ocm-inundation/sealevelcalculator_frontend)
+
+The NOAA Sea Level Calculator is currently in development, targeting a Fall 2024 Release of version 1. 
+
+- [Application](https://coast.noaa.gov/sealevelcalculator/)
+- [Digital Coast Tool Page](https://coast.noaa.gov/digitalcoast/tools/slc.html)
+- [Code Repository](https://github.com/ocm-inundation/sealevelcalculator_frontend)
