@@ -24,7 +24,7 @@ The NOAA Lake Level Viewer is a web application for visualizing potential lake l
 
 ### [Sea Level Calculator](https://github.com/ocm-inundation/sealevelcalculator_frontend)
 
-The NOAA Sea Level Calculator is currently in development, targeting a Fall 2024 Release of version 1. 
+The NOAA Sea Level Calculator is a web application that produces location-specific scenarios for sea level and flooding, as well as information about present-day and past conditions. Local governments and other practitioners can use the information to make informed decisions about strategic adaptation investments. The site incorporates data, maps, and visualizations and produces automated, location-specific reports.
 
 - [Application](https://coast.noaa.gov/sealevelcalculator/)
 - [Digital Coast Tool Page](https://coast.noaa.gov/digitalcoast/tools/slc.html)
